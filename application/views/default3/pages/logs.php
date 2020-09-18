@@ -1,0 +1,1 @@
+<logs-component></logs-component>

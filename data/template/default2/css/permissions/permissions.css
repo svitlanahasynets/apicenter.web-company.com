@@ -1,0 +1,29 @@
+.permission-control-box{
+	float: left;
+	width: 100%;
+	width: calc(100% - 158px);
+	padding: 3px;
+	border: 1px solid #B6B6B6;
+	outline-color: #048399;
+	
+}
+div.form-field .fancytree-container span{
+	width: auto;
+}
+span.fancytree-empty, span.fancytree-vline, span.fancytree-expander, span.fancytree-icon, span.fancytree-checkbox, span.fancytree-radio, span.fancytree-drag-helper-img, #fancytree-drop-marker{
+	width: 16px !important;
+	height: 16px !important;
+}
+table.fancytree-ext-table{
+	outline: none;
+}
+table.fancytree-ext-table tr th, table.fancytree-ext-table tr td{
+	text-align: left;
+	padding: 5px 5px 0px 5px;
+}
+table.fancytree-ext-table tbody tr.fancytree-active{
+	background-color: transparent !important;
+}
+table.fancytree-ext-table tbody tr.fancytree-focused{
+	background-color: transparent !important;
+}

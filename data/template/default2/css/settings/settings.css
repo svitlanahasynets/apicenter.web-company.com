@@ -1,0 +1,16 @@
+.settings-preview-image{
+	float: left;
+	clear: both;
+	margin-top: 5px;
+}
+.settings-preview-image img{
+	max-width: 100px;
+	max-height: 100px;
+}
+.settings-download-link,
+.settings-download-link a{
+	float: left;
+	clear: both;
+	color: #048399;
+	text-decoration: underline;
+}

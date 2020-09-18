@@ -1,0 +1,64 @@
+.list-comment{
+	float: left;
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+	border-radius: 10px;
+	border-bottom: 1px solid #aaa;
+}
+.list-comment:hover{
+	background: #ececec;
+	
+}
+.list-comment .comment-meta{
+	float: left;
+	padding: 10px;
+}
+.list-comment .comment-text, .list-comment .comment-creator{
+	float: left;
+	clear: both;
+}
+.list-comment .comment-text{
+	width: 100%;
+	color: #292929;
+}
+.list-comment .comment-creator{
+	color: #686868;
+}
+.list-comment .comment-delete{
+	display: none;
+	float: right;
+	position: relative;
+	background: #AAA;
+	padding: 3px 6px;
+	margin: 10px;
+	border-radius: 4px;
+	color: #FFF;
+	cursor: pointer;
+}
+.list-comment:hover .comment-delete{
+	display: block;
+}
+
+.schedule-comments-add-container{
+	float: left;
+	width: 100%;
+}
+.schedule-comments-add-container textarea{
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid #ccc;
+	outline: none;
+	width: 90%;
+	height: 100px;
+}
+.schedule-comments-add-container span{
+	float: left;
+	clear: both;
+	padding: 3px 8px;
+	margin-top: 7px;
+	background: #048399;
+	color: #fff;
+	border-radius: 5px;
+	cursor: pointer;
+}

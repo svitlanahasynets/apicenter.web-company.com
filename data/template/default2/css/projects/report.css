@@ -1,0 +1,25 @@
+table.data-table{
+	width: 100%;
+}
+table.data-table td.heading{
+	font-size: 10pt;
+	font-weight: bold;
+}
+table.data-table td.costTypeTotal,
+table.data-table td.salesInvoicesTotal{
+	font-size: 10pt;
+	font-weight: bold;
+}
+table.data-table td.subHeading,
+table.data-table td.costCategoryTotal{
+	font-size: 9pt;
+	font-weight: bold;
+}
+table.data-table td.projectTotal{
+	font-size: 11pt;
+	font-weight: bold;
+}
+table.data-table td.is_price.isSubTotal,
+table.data-table td.is_price.projectTotal{
+	border-top: 1px solid #000;
+}

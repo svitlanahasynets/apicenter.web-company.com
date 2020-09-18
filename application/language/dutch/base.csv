@@ -1,0 +1,634 @@
+Activity
+Add
+Add a folder
+Add bar
+Add comment
+Add directory
+Add group
+Add subgroup
+Add task
+ago
+All categories
+All Companies
+All companies
+All projects
+All schedules
+All task lists
+All tasks
+All user groups
+All users
+approved
+April
+Are you sure you want to delete all versions of this file?
+Are you sure you want to delete this comment?
+Are you sure you want to delete this company? This action can not be undone.
+Are you sure you want to delete this directory and all the files and directories inside it?
+Are you sure you want to delete this file?
+Are you sure you want to delete this group and all of it's children?
+Are you sure you want to delete this group? This action can not be undone.
+Are you sure you want to delete this project? This action can not be undone.
+Are you sure you want to delete this schedule? This action can not be undone.
+Are you sure you want to delete this task category? This action can not be undone.
+Are you sure you want to delete this task list? This action can not be undone.
+Are you sure you want to delete this task? This action can not be undone.
+Are you sure you want to delete this user?
+August
+Back to all projects
+Back to all schedules
+Back to all task lists
+Back to all tasks
+Back to permissions
+Bar title
+by
+Cancel
+Categories
+Category
+Category description
+Category information
+Category name
+Category title
+click to add a description
+Code
+comments
+Comments on
+commissioned
+Companies
+Company
+Company description
+Company ID
+Company information
+Company name
+Completion date
+Create
+Create a project
+Create a schedule
+Create category
+Create company
+Create group
+Create project
+Create schedule
+Create task
+Create task
+Create task category
+Create task list
+Create user
+Create user group
+Created
+Creator state
+Current activities (most recent 10)
+Dashboard
+December
+Delete company
+Delete directory
+Delete file
+Delete group
+Delete project
+Delete schedule
+Delete task
+Delete task category
+Delete task list
+Delete user
+Description
+done
+Done
+Drag & drop files
+E-mail address
+E-mail notifications
+Edit
+Edit category
+Edit company
+Edit group
+Edit list
+Edit project
+Edit schedule
+Edit task
+Edit task category
+Edit task list
+Edit user
+End date
+Enter a new password if you want to change it
+Error while opening schedule
+Executor
+Executor state
+Expected completion date
+February
+files
+Files
+Files attached to
+Folder name
+fr
+Group code
+Group ID
+Group information
+Group name
+Group permissions
+Group title
+Groups
+high
+ID
+idle
+January
+Job description
+July
+June
+last updated
+List description
+List ID
+List information
+List name
+Load more results
+Log out
+low
+Manage categories
+Manage settings
+Manage task lists
+March
+May
+Metrics
+Products
+Orders
+Shipments
+mo
+Name
+normal
+November
+October
+Only alphanumeric characters. No spaces.
+Overdue activities (most recent 10)
+Owner
+Owner state
+Partner ID
+Password
+Permissions
+Permissions for
+Phone number
+Print
+Priority
+processing
+Progress
+Project
+Project description
+Project end date
+Project ID
+Project ID
+Project settings
+Project start date
+Project title
+Projects
+purchase
+Remove
+Resources
+Resources for
+sa
+Save
+Schedule
+Schedule bar
+Schedule description
+Schedule end date
+Schedule group
+Schedule ID
+Schedule start date
+Schedule title
+Schedules
+sent
+September
+Start date
+State
+su
+Task
+Task category
+Task creator
+Task ID
+Task list
+Task list name
+Task lists
+Tasks
+th
+Title
+tu
+Type
+Upload a file
+Upload file
+Upload files
+Use
+User
+User company
+User group
+User groups
+User ID
+User information
+User role
+User specific permissions
+Username
+Users
+View
+View project
+View/edit schedule
+we
+Week
+Welcome
+Zoom
+Files
+Upload file
+Delete file
+Add directory
+Delete directory
+Upload a file
+Add a folder
+Folder name
+Add
+Are you sure you want to delete this file?
+Are you sure you want to delete this directory and all the files and directories inside it?
+Create task
+Nieuw
+In progress
+Completed
+Clients
+Suppliers
+Employees
+Cost codes
+Purchase orders
+Settings
+Contract value
+Client
+Project state
+Address
+ZIP Code
+City
+All project cost codes
+Add project cost code
+Import cost codes
+Project  deleted
+Back to all clients
+All clients
+Create client
+Client ID
+Client title
+Client description
+Edit client
+Client name
+Client info
+Are you sure you want to delete this client? This action can not be undone.
+Delete client
+Create a client
+Error while deleting client
+Back to all suppliers
+All suppliers
+Create supplier
+Supplier ID
+Supplier title
+Supplier email
+Supplier description
+Edit supplier
+Create a supplier
+Supplier name
+Supplier info
+Are you sure you want to delete this supplier? This action can not be undone.
+Delete supplier
+Supplier  deleted
+Back to all employees
+All employees
+Create employee
+First name
+Last name
+Phone
+Price
+Hirer
+Supplier
+View details
+Create user for this employee
+Create an employee
+No
+Yes
+None
+Initials
+Insertion
+ID Number
+Is hirer?
+Edit employee
+Are you sure you want to delete this employee? This action can not be undone.
+Delete employee
+Employee  saved
+Employee  created
+Employee  deleted
+Back to cost codes
+Cost categories & codes
+Cost categories
+All cost categories
+Create cost category
+All cost codes
+Create cost code
+Make your choice on the left
+Category code
+Create a category
+Category code number
+Are you sure you want to delete this category? This action can not be undone.
+Delete category
+Back to costcodes
+Code code
+Code title
+Edit code
+Create a code
+Code number
+Are you sure you want to delete this code? This action can not be undone.
+Delete code
+All purchase orders
+Create purchase order
+Purchase order lines
+All purchase order lines
+Export to CSV
+Export to PDF
+Purchase order ID
+Creation date
+Date submitted
+Order total
+Quick view
+Not submitted
+Page
+Close
+Purchase order
+Workshop
+Construction site
+Custom location
+Date
+Data
+Delivery location
+Orderer
+Email
+Project details
+Zip code
+Qty
+Total
+Image
+Back to all purchase orders
+Custom delivery location
+Save & submit
+Cost category
+Cost code
+Add new row
+Edit purchase order
+Are you sure you want to delete this purchase order? This action can not be undone.
+Delete purchase order
+submitted on
+Mark received
+Mark not received
+Purchase order line ID
+Date received
+Not received
+Access projects section
+Edit all projects
+Access clients section
+Edit all clients
+Access suppliers section
+Edit all suppliers
+Access employees section
+Edit all employees
+Access costcodes section
+Costcodes
+Create costcode
+Edit all costcodes
+Edit all cost categories
+Access purchase orders section
+Edit all purchase orders
+Edit own purchase orders
+Edit project purchase orders
+Submit purchase order
+Mark purchase order lines received
+Access permissions section
+List users
+Create user for own company
+List user groups
+List companies
+Manage permissions (master account)
+Access settings section
+General
+A4
+A3
+PDF format
+Landscape
+Portrait
+PDF orientation
+Background image for PDF exports (portrait) - JPG or PNG
+Background image for PDF exports (landscape) - JPG or PNG
+PDF margin left
+PDF margin right
+PDF margin top
+PDF margin bottom
+Settings saved
+Login
+Calculations
+Management
+Delivery date
+All calculations
+Create calculation
+Hour rates
+Manage hour rates
+Calculation ID
+Back to all calculations
+Material
+Equipment
+Provisional
+Subcontractors
+st
+m1
+m2
+m3
+pst
+Chpt
+Par
+No.
+Unit
+Norm
+Hours
+Hour rate
+Wages
+Subcontr
+Price/unit
+Total costs
+Back to all hour rates
+All hour rates
+Add hour rate
+Rate
+Edit rate
+Hour rate test created
+Edit hour rate
+Are you sure you want to delete this hour rate? This action can not be undone.
+Delete hour rate
+Hour rate test saved
+Hour rate deleted
+Access calculations section
+Edit all calculations
+Edit own calculations
+Edit project calculations
+Access hour rates section
+Add hour rates
+Edit all hour rates
+In uitvoering
+Voltooid
+Route image
+Purchase invoices
+Purchasing
+Sales invoices
+Sales
+Timesheets
+Calculate all totals
+Budgeted
+Purchased
+Labor
+Other
+Budget leftover
+Revenues
+Total balance
+Recalculate
+All project totals calculated successfully
+Additional work
+Totals
+By cost type
+Budget
+Costs
+Calculated
+Project cost category overview
+Cost type
+Project cost code overview
+Labor costs for
+Timesheets total
+Purchase invoices total
+Purchase invoice lines
+All purchase invoices
+Add purchase invoice
+All purchase invoice lines
+Choose a project
+Purchase invoice line ID
+Purchase invoice ID
+Back to project
+Cost codes for project
+Calculation lines
+All calculation lines
+Calculation total
+Last update
+Edit calculation
+Are you sure you want to delete this calculation? This action can not be undone.
+Delete calculation
+Add chapter
+Add paragraph
+Add line
+Add chapter below
+Add paragraph below
+Add line below
+Calculation line ID
+Purchase invoice
+Unpaid
+Paid
+Invoice ID
+Invoice number
+Invoice date
+Invoice total
+Is paid?
+Back to all purchase invoices
+Edit purchase invoice
+Paid amount
+Notes
+Are you sure you want to delete this purchase invoice? This action can not be undone.
+Delete purchase invoice
+Additional work ID
+Sales invoice
+All sales invoices
+Add sales invoice
+Sales invoice lines
+All sales invoice lines
+Back to all sales invoices
+Edit sales invoice
+Are you sure you want to delete this sales invoice? This action can not be undone.
+Delete sales invoice
+Timesheet
+All timesheets
+Add timesheet
+Open
+Submitted
+Booked
+Sheet ID
+Employee
+Year
+Employee state
+Accountant state
+Back to all timesheets
+Edit timesheet
+Are you sure you want to delete this timesheet? This action can not be undone.
+Delete timesheet
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Note
+Timesheet saved
+Default hour rate
+Access additional work section
+Create additional work
+Edit all additional work
+Edit own additional work
+Edit project additional work
+Access sales invoices section
+Create sales invoices
+Edit all sales invoices
+Edit own sales invoices
+Edit project sales invoices
+Access purchase invoices section
+Create purchase invoices
+Edit all purchase invoices
+Edit own purchase invoices
+Edit project purchase invoices
+Access timesheets section
+Create timesheet
+Edit all timesheets
+Access schedules section
+Edit all schedules
+Access tasks section
+Project totals calculated successfully
+All additional work
+Add additional work
+Draft
+Quoted
+Contracted
+Expired
+Work ID
+Work state
+Quote total
+Back to all additionalwork
+Edit additional work
+Quote amount
+Order amount
+Are you sure you want to delete this additionalwork? This action can not be undone.
+Delete additionalwork
+Cost category code
+Cost category title
+Edit cost category
+Please save your work before leaving this page.
+Login not successful. Please try again
+Choose one
+Project city
+Man-days register
+Create man-days register
+All
+From week
+To week
+Submit
+Week(s)
+Timesheet lines
+All timesheet lines
+Is active in mandays register output
+Days
+Total sales invoices
+Summary
+Project total balance
+Project report
+Invoice nr.
+Project code
+Sales invoice line ID
+Sales invoice number
+New purchase order for
+Contact person
+Columns
+Used material

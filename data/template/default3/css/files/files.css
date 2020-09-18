@@ -1,0 +1,266 @@
+.list-file, .list-folder{
+	height: 60px;
+	padding: 10px;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+.list-file:hover, .list-folder:hover{
+	background: #ececec;
+}
+.list-file .file-icon, .list-folder .file-icon{
+	float: left;
+	height: 60px;
+	width: 60px;
+	margin-right: 10px;
+}
+.list-file .file-icon img, .list-file .file-icon img, .list-folder .file-icon img, .list-folder .file-icon img{
+	height: 100%;
+	width: auto;
+}
+.list-file .file-meta, .list-folder .file-meta{
+	float: left;
+	width: 60%;
+	color: #7b756b;
+}
+.list-file.focused .file-name, .list-folder.focused .file-name{
+	color: #fff;
+}
+.list-file .file-name, .list-file .file-description, .list-file .file-creator, .list-folder .file-name, .list-folder .file-description, .list-folder .file-creator{
+	float: left;
+	clear: both;
+}
+.list-file .file-name, .list-folder .file-name{
+	font-size: 12pt;
+	color: #696969;
+	height: 17pt;
+	overflow: hidden;
+}
+.list-file .file-description, .list-folder .file-description{
+	width: 100%;
+}
+.list-file .file-description input, .list-folder .file-description input{
+	border: none;
+	outline: none;
+	padding: 3px 0;
+	width: 180px;
+	font-size: 9pt;
+	background: none;
+	color: #7B756B;
+}
+.list-file .file-creator, .list-folder .file-creator{
+	color: #9f9f9f;
+}
+.list-file .file-delete, .list-folder .file-delete{
+	display: none;
+	float: right;
+	position: relative;
+	background: #AAA;
+	padding: 3px 6px;
+	border-radius: 4px;
+	color: #FFF;
+	cursor: pointer;
+}
+.list-file:hover .file-delete, .list-folder:hover .file-delete{
+	display: block;
+}
+
+
+.file-tool{
+	float: left;
+	width: 100%;
+	height: 400px;
+}
+.file-tool > *{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.file-tool .files-actions{
+	float: left;
+	width: 100%;
+	height: 40px;
+	background: #048399;
+}
+.file-tool .files-tree-menu{
+	float: left;
+	clear: both;
+	width: 298px;
+	height: 359px;
+	background: #eee;
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+	overflow-y: auto;
+}
+.file-tool .file-tool-files{
+	width: 599px;
+	width: calc(100% - 301px);
+	height: 359px;
+	border-right: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+.file-tool .file-tool-files-inner{
+	float: left;
+	width: 100%;
+	height: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.file-tool .file-tool-files,
+.file-tool .file-tool-files-inner{
+	float: left;
+	position: relative;
+	z-index: 20;
+}
+.file-tool-files .ajax-upload-dragdrop{
+	position: relative;
+	margin-top: 0;
+	border: 0;
+	width: 100% !important;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.file-tool-files .ajax-upload-dragdrop.state-hover{
+	z-index: 999;
+	background: rgba(139, 214, 27, 0.5);
+}
+.file-tool-files .ajax-upload-dragdrop .ajax-file-upload, .file-tool-files .ajax-upload-dragdrop span{
+	display: none;
+}
+.tree-container{
+	margin-top: 5px;
+}
+.tree ul{
+	list-style: none;
+	margin-left: 10px;
+}
+.tree ul li{
+	cursor: pointer;
+	padding: 1px;
+}
+.tree ul li span{
+	padding: 2px 5px;
+}
+.tree ul li:before{
+	content: '';
+	float: left;
+	width: 20px;
+	height: 17px;
+	background: url('../../images/files/dir-closed.png') no-repeat 0 3px;
+}
+.tree ul li.activechild:before{
+	background: url('../../images/files/dir-open.png') no-repeat 0 3px;
+}
+.tree ul li.active span{
+	background: #048399;
+	border-radius: 3px;
+	color: #fff;
+}
+.tree ul li.active ul li span{
+	background: none;
+	color: inherit;
+}
+.tree ul li ul.open{
+	display: block;
+}
+.tree ul li ul{
+	display: none;
+}
+
+.files-actions-tree{
+	float: left;
+	width: 300px;
+	height: 100%;
+}
+.files-actions-files{
+	float: left;
+	width: 600px;
+	width: calc(100% - 300px);
+	height: 100%;
+}
+.files-actions .icon{
+	float: left;
+	height: 20px;
+	margin:0 5px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+.files-actions .icon.disabled{
+	opacity: 0.5;
+}
+.files-actions .icon img{
+	height: 20px;
+	width: auto;
+}
+/* https://www.iconfinder.com/iconsets/simplicio */
+
+.file-tool-files .list-file, .file-tool-files .list-folder{
+	float: left;
+	width: 60px;
+	max-height: 90px;
+	height: auto;
+	margin: 7px 15px;
+	padding: 0;
+	border-radius: 0;
+}
+.file-tool-files .list-file.focused, .file-tool-files .list-file.focused:hover, .file-tool-files .list-folder.focused, .file-tool-files .list-folder.focused:hover{
+	background: #35a1ff;
+}
+.file-tool-files .list-file .file-icon, .file-tool-files .list-folder .file-icon{
+	width: 50px;
+	height: 50px;
+	margin-left: 5px;
+	text-align: center;
+}
+.file-tool-files .list-file .file-meta, .file-tool-files .list-folder .file-meta{
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+.file-tool-files .list-file .file-name, .file-tool-files .list-folder .file-name{
+	max-height: 37px;
+	height: auto;
+	font-size: 8pt;
+	line-height: 9pt;
+	word-break: keep-all;
+	word-wrap: break-word;
+	width: 100%;
+	text-align: center;
+}
+.file-tool-files .list-file:hover, .file-tool-files .list-folder:hover{
+	background: none;
+}
+
+/* Dialogs */
+.schedule-loader .dialog{
+	background: none;
+	border: none;
+}
+.schedule-loader .loading-content{
+	display: block !important;
+}
+/* Dialogs */
+
+
+
+/* Responsive */
+/* All mobile devices */
+@media screen and (max-width: 1024px){
+	.files-tree-menu,
+	.files-actions-tree{
+		display: none;
+	}
+	.file-tool .file-tool-files,
+	.files-actions-files{
+		width: 100%;
+	}
+	.file-tool .file-tool-files,
+	.file-tool .file-tool-files-inner{
+		-webkit-tap-highlight-color: rgba(0,0,0,0);
+	}
+}
+/* Responsive */

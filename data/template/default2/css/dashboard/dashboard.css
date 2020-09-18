@@ -1,0 +1,11 @@
+.dashboard-block{
+	float: left;
+	max-width: 48%;
+	width: 48%\9; /* IE8 and below */
+	clear: both;
+	margin-bottom: 25px;
+}
+.dashboard-block-right{
+	float: right;
+	clear: none;
+}

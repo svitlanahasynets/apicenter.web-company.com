@@ -1,0 +1,5 @@
+nbproject/private/
+/examples/auth.ini
+/examples/auth.*.ini
++/examples/auth.example.ini
+/debug/

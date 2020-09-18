@@ -1,0 +1,672 @@
+Activity,Activiteit
+Add,Toevoegen
+Add a folder,Map toevoegen
+Add bar,Balk toevoegen
+Add comment,Bericht toevoegen
+Add directory,Map toevoegen
+Add group,Groep toevoegen
+Add subgroup,Sub groep toevoegen
+Add task,Nieuwe taak
+Admin Debugging,Admin Debugging
+ago,geleden
+All categories,Categorie overzicht
+All Companies,Bedrijvenoverzicht
+All companies,Bedrijvenoverzicht
+All projects,Alle projecten
+All schedules,Alle planningen
+All task lists,Overzicht takenlijsten
+All tasks,Takenoverzicht
+All user groups,Alle gebruikers groepen
+All users,Alle gebruikers
+approved,Goedgekeurd
+April,April
+Are you sure you want to delete all versions of this file?,Weet u zeker dat u alle versies van dit bestand wilt verwijderen?
+Are you sure you want to delete this comment?,Weet u zeker dat u dit bericht wilt verwijderen?
+Are you sure you want to delete this company? This action can not be undone.,Weet u zeker dat u dit bedrijf wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this directory and all the files and directories inside it?,Weet u zeker dat u deze map en alle onderliggende bestanden en mappen wilt verwijderen?
+Are you sure you want to delete this file?,Weet u zeker dat u dit bestand wilt verwijderen?
+Are you sure you want to delete this group and all of it's children?,Weet u zeker dat u deze groep en alle onderliggende onderdelen wilt verwijderen?
+Are you sure you want to delete this group? This action can not be undone.,Weet u zeker dat u deze groep wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this project? This action can not be undone.,Weet u zeker dat u dit project wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this schedule? This action can not be undone.,Weet u zeker dat u deze planning wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this task category? This action can not be undone.,Weet u zeker dat u deze categorie wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this task list? This action can not be undone.,Weet u zeker dat u deze takenlijst en alle gekoppelde taken wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this task? This action can not be undone.,Weet u zeker dat u deze taak wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Are you sure you want to delete this user?,Weet u zeker dat u deze gebruiker wilt verwijderen?
+August,Augustus
+Back to all projects,Terug naar projectoverzicht
+Back to all schedules,Terug naar planningoverzicht
+Back to all task lists,Terug naar overzicht takenlijsten
+Back to all tasks,Terug naar takenoverzicht
+Back to permissions,Terug naar toegang beheer
+Bar title,Voer hier de titel in
+by,door
+Cancel,Annuleren
+Categories,Taak categorieën
+Category,Categorie
+Category description,Categorie omschrijving
+Category information,Categorie informatie
+Category name,Categorie naam
+Category title,Categorie titel
+click to add a description,Klik om omschrijving toe te voegen
+Code,Code
+comments,Berichten
+Comments on,Berichten bij
+commissioned,Opdracht
+Companies,Bedrijven
+Company,Bedrijf
+Company description,Omschrijving bedrijf
+Company ID,Bedrijf ID
+Company information,Bedrijfsinformatie
+Company name,Bedrijfsnaam
+Completion date,Opleverdatum
+Create,Opslaan
+Create a project,Nieuw project
+Create a schedule,Nieuwe planning
+Create category,Nieuwe taak categorie
+Create company,Nieuw bedrijf
+Create group,Nieuwe groep
+Create project,Nieuw project
+Create schedule,Nieuwe planning
+Create task,Nieuwe taak
+Create task,Taak toevoegen
+Create task category,Nieuwe categorie
+Create task list,Nieuwe takenlijst
+Create user,Nieuwe gebruiker
+Create user group,Nieuwe gebruikers groep
+Created,Aangemaakt
+Creator state,Status eigenaar
+Current activities (most recent 10),Lopende activiteiten (laatste 10)
+Dashboard,Overzicht
+December,December
+Delete company,Verwijder bedrijf
+Delete directory,Map verwijderen
+Delete file,Bestand verwijderen
+Delete group,Verwijder groep
+Delete project,Project verwijderen
+Delete schedule,Verwijder planning
+Delete task,Verwijder taak
+Delete task category,Verwijder categorie
+Delete task list,Verwijder takenlijst
+Delete user,Verwijder gebruiker
+Description,Omschrijving
+done,Gereed
+Done,Gereed
+Drag & drop files,Bestanden hier naar toe slepen en loslaten
+E-mail address,E-mailadres
+E-mail notifications,E-mail notificaties
+Edit,Aanpassen
+Edit category,Bewerk categorie
+Edit company,Bewerk bedrijf
+Edit group,Bewerk groep
+Edit list,Bewerk takenlijst
+Edit project,Project aanpassen
+Edit schedule,Bewerk instellingen
+Edit task,Bewerk taak
+Edit task category,Bewerk categorie
+Edit task list,Bewerk takenlijst
+Edit user,Bewerk gebruiker
+End date,Eind datum
+Enter a new password if you want to change it,Voer een nieuw wachtwoord in wanneer u dit wilt wijzigen
+Error while opening schedule,Fout bij openen van planning
+Executor,Actiehouder
+Executor state,Status actiehouder
+Expected completion date,Verwachte opleverdatum
+February,Februari
+files,Bestanden
+Files,Bestanden
+Files attached to,Bestandoverzicht van
+Folder name,Map titel
+fr,vr
+Group code,Groep code
+Group ID,Groep ID
+Group information,Groep informatie
+Group name,Groepsnaam
+Group permissions,Groep toegang beheer
+Group title,Voer hier de titel in
+Groups,Groepen
+high,Hoog
+ID,ID
+idle,Niet gestart
+January,Januari
+Job description,Functie omschrijving
+July,Juli
+June,Juni
+last updated,laatste wijziging gemaakt op
+List description,Takenlijst omschrijving
+List ID,Takenlijst ID
+List information,Takenlijst informatie
+List name,Takenlijst naam
+Load more results,Laad meer resultaten
+Log out,Uitloggen
+low,Laag
+Manage categories,Beheer taak categorieën
+Manage settings,Bewerk instellingen
+Manage task lists,Beheer takenlijsten
+March,Maart
+May,Mei
+Metrics,Metrics
+Invoices,Facturen
+AFAS,AFAS
+SalesEntries,SalesEntries
+Customers,Klanten
+Products,Producten
+Orders,Bestellingen
+Shipments,Zendingen
+Exact,Exact
+Custom module,Custom module
+Optiply,Optiply
+Optiply BuyOrder,Optiply BuyOrder
+Optiply SellOrder,Optiply SellOrder
+Optiply Suppliers,Optiply-leveranciers
+Optiply Return,Optiply Return
+mo,ma
+Name,Naam
+normal,Normaal
+November,November
+October,Oktober
+Only alphanumeric characters. No spaces.,Alleen alfanumerieke karakters. Geen spaties.
+Overdue activities (most recent 10),Activiteiten over tijd (laatste 10)
+Owner,Eigenaar actie
+Owner state,Status eigenaar
+Partner ID,Partneridentificatie
+Password,Wachtwoord
+Permissions,Toegang beheer
+Permissions for,Rechten beheer voor
+Phone number,Telefoonnummer
+Print,Print
+Priority,Prioriteit
+processing,In uitvoering
+Profile picture,Profielfoto
+Progress,Voortgang
+Project,Project
+Project description,Project omschrijving
+Project end date,Project einddatum
+Project ID,Project ID
+Project ID,Project ID
+Project settings,Project instellingen
+Project start date,Project startdatum
+Project title,Project naam
+Projects,Projecten
+purchase,Inkopen
+Remove,Verwijder onderdeel
+Resources,Resources
+Resources for,Resources voor
+sa,za
+Save,Opslaan
+Schedule,Planning
+Schedule bar,Planning balk
+Schedule description,Omschrijving
+Schedule end date,Eind datum
+Schedule group,Planning groep
+Schedule ID,Planning ID
+Schedule start date,Start datum
+Schedule title,Naam
+Schedules,Planningen
+Select Customers,Selecteer klanten
+Send Message,Bericht versturen
+sent,Verzonden naar actiehouder
+September,September
+Start date,Start datum
+State,Status actiehouder
+su,zo
+Task,Taak
+Task category,Taak categorie
+Task creator,Eigenaar actie
+Task ID,Taak ID
+Task list,Takenlijst
+Task list name,Takenlijst naam
+Task lists,Takenlijsten
+Tasks,Taken
+th,do
+Title,Naam
+tu,di
+Type,Type
+Upload a file,Upload bestand
+Upload file,Upload bestand
+Upload files,Bestanden uploaden
+Use,Gebruik
+User,Gebruiker
+User company,Bedrijf
+User group,Gebruikers groep
+User groups,Gebruikers groepen
+User ID,Gebruiker ID
+User information,Gebruikersinformatie
+User role,Gebruikersrol
+User specific permissions,Gebruikers specifiek toegang beheer
+Username,Gebruikersnaam
+Users,Gebruikers
+View,Bekijk
+View project,Bekijk project
+View/edit schedule,Bekijk/bewerk planning
+we,wo
+Week,Week
+Welcome,Welkom
+Zoom,Zoom
+Files,Bestanden
+Upload file,Upload bestand
+Delete file,Verwijder bestand
+Add directory,Map toevoegen
+Delete directory,Map verwijderen
+Upload a file,Bestand uploaden
+Add a folder,Map toevoegen
+Folder name,Naam
+Add,Toevoegen
+Are you sure you want to delete this file?,Weet u zeker dat u alle versies van dit bestand wilt verwijderen?
+Are you sure you want to delete this directory and all the files and directories inside it?,Weet u zeker dat u deze map en alle onderliggende bestanden en mappen wilt verwijderen?
+Create task,Taak toevoegen
+Nieuw,Nieuw
+In progress,In uitvoering
+Completed,Voltooid
+Clients,Opdrachtgevers
+Suppliers,Leveranciers
+Employees,Medewerkers
+Cost codes,Kostencodes
+Purchase orders,Inkooporders
+Settings,Instellingen
+Contract value,Aanneemsom
+Client,Opdrachtgever
+Project state,Project status
+Address,Adres
+ZIP Code,Postcode
+City,Plaats
+All project cost codes,Alle project kostencodes
+Add project cost code,Project kostencode toevoegen
+Import cost codes,Importeer kostencodes
+Project deleted,Project verwijderd
+Back to all clients,Terug naar opdrachtgever overzicht
+All clients,Opdrachtgever overzicht
+Create client,Opdrachtgever toevoegen
+Client ID,#
+Client title,Naam
+Client description,Notities
+Edit client,Bewerk opdrachtgever
+Client name,Naam
+Client info,Notities
+Are you sure you want to delete this client? This action can not be undone.,Weet u zeker dat u deze opdrachtgever wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete client,Verwijder opdrachtgever
+Create a client,Opdrachtgever toevoegen
+Error while deleting client,Fout tijdens verwijderen van opdrachtgever
+Back to all suppliers,Terug naar leverancier overzicht
+All suppliers,Leverancier overzicht
+Create supplier,Leverancier toevoegen
+Supplier ID,#
+Supplier title,Naam
+Supplier email,E-mail
+Supplier description,Notities
+Edit supplier,Bewerk leverancier
+Create a supplier,Leverancier toevoegen
+Supplier name,Naam
+Supplier info,Notities
+Are you sure you want to delete this supplier? This action can not be undone.,Weet u zeker dat u deze leverancier wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete supplier,Verwijder leverancier
+Supplier  deleted,Leverancier verwijderd
+Back to all employees,Terug naar medewerker overzicht
+All employees,Medewerker overzicht
+Create employee,Medewerker toevoegen
+First name,Voornaam
+Last name,Achternaam
+Phone,Telefoonnummer
+Price,Prijs
+Hirer,Ingehuurd
+Supplier,Leverancier
+View details,Bekijk informatie
+Create user for this employee,Maak account aan voor deze medewerker
+Create an employee,Medewerker toevoegen
+No,Nee
+Yes,Ja
+None,Geen
+Initials,Voorletters
+Insertion,Tussenvoegsel
+ID Number,BSN
+Is hirer?,Is ingehuurd?
+Edit employee,Bewerk medewerker
+Are you sure you want to delete this employee? This action can not be undone.,Weet u zeker dat u deze medewerker wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete employee,Verwijder medewerker
+Employee  saved,Medewerker opgeslagen
+Employee  created,Medewerker toegevoegd
+Employee  deleted,Medewerker verwijderd
+Back to cost codes,Terug naar kostencodes
+Cost categories & codes,Kostensoorten en kostencodes
+Cost categories,Kostensoorten
+All cost categories,Kostensoort overzicht
+Create cost category,Kostensoort toevoegen
+All cost codes,Kostencode overzicht
+Create cost code,Kostencode toevoegen
+Make your choice on the left,Maak uw keuze in het menu
+Category code,Kostensoort code
+Create a category,Kostensoort toevoegen
+Category code number,Kostensoort code
+Are you sure you want to delete this category? This action can not be undone.,Weet u zeker dat u deze kostensoort wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete category,Verwijder kostensoort
+Back to costcodes,Terug naar kosten code overzicht
+Code code,Kostencode
+Code title,Kostencode titel
+Edit code,Bewerk kostencode
+Create a code,Kostencode toevoegen
+Code number,Kostencode
+Are you sure you want to delete this code? This action can not be undone.,Weet u zeker dat u deze kostencode wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete code,Verwijder kostencode
+All purchase orders,Inkooporder overzicht
+Create purchase order,Nieuwe inkooporder
+Purchase order lines,Inkooporderregels
+All purchase order lines,Inkooporderregel overzicht
+Export to CSV,Exporteer naar CSV
+Export to PDF,Exporteer naar PDF
+Purchase order ID,Ordernummer
+Creation date,Aanmaakdatum
+Date submitted,Datum verzonden
+Order total,Inkooporder totaal
+Quick view,Snelle weergave
+Not submitted,Niet verzonden
+Page,Pagina
+Close,Sluiten
+Purchase order,Inkooporder
+Workshop,Werkplaats
+Construction site,Bouwplaats
+Custom location,"Andere locatie, namelijk"
+Date,Datum
+Data,Data
+Delivery location,Afleverlocatie
+Orderer,Besteller
+Email,E-mailadres
+Project details,Projectgegevens
+Zip code,Postcode
+Qty,Aantal
+Total,Totaal
+Image,Afbeelding
+Back to all purchase orders,Terug naar inkooporder overzicht
+Custom delivery location,"Andere afleverlocatie, namelijk"
+Save & submit,Opslaan en verzenden
+Cost category,Kostensoort
+Cost code,Kostencode
+Add new row,Regel toevoegen
+Edit purchase order,Bewerk inkooporder
+Are you sure you want to delete this purchase order? This action can not be undone.,Weet u zeker dat u deze inkooporder wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete purchase order,Verwijder inkooporder
+submitted on,verzonden op
+Mark received,Markeer ontvangen
+Mark not received,Markeer niet ontvangen
+Purchase order line ID,Regelnummer
+Date received,Datum ontvangen
+Not received,Niet ontvangen
+Access projects section,Toegang tot projecten module
+Edit all projects,Alle projecten bewerken
+Access clients section,Toegang tot opdrachtgevers module
+Edit all clients,Alle opdrachtgevers bewerken
+Access suppliers section,Toegang tot leveranciers module
+Edit all suppliers,Alle leveranciers bewerken
+Access employees section,Toegang tot medewerkers module
+Edit all employees,Alle medewerkers bewerken
+Access costcodes section,Toegang tot kostencodes module
+Costcodes,Kostencodes
+Create costcode,Kostencode toevoegen
+Edit all costcodes,Alle kostencodes bewerken
+Edit all cost categories,Alle kostensoorten bewerken
+Access purchase orders section,Toegang tot inkooporder module
+Edit all purchase orders,Alle inkooporders bewerken
+Edit own purchase orders,Eigen inkooporders bewerken
+Edit project purchase orders,Inkooporders behorend tot toegankelijke projecten bewerken
+Submit purchase order,Inkooporder verzenden
+Mark purchase order lines received,Inkooporder regels markeren als ontvangen
+Access permissions section,Toegang tot toegang beheer module
+List users,Gebruikers overzicht
+Create user for own company,Gebruiker toevoegen voor eigen bedrijf
+List user groups,Gebruikersgroepen overzicht
+List companies,Bedrijven overzicht
+Manage permissions (master account),Alle rechten (administrator account)
+Access settings section,Toegang tot instellingen module
+General,Algemeen
+A4,A4
+A3,A3
+PDF format,PDF formaat
+Landscape,Liggend
+Portrait,Staand
+PDF orientation,Afdrukstand
+Background image for PDF exports (portrait) - JPG or PNG,Achtergrond afbeelding voor PDF (staand) – .jpg of .png
+Background image for PDF exports (landscape) - JPG or PNG,Achtergrond afbeelding voor PDF (liggend) – .jpg of .png
+PDF margin left,PDF marge links
+PDF margin right,PDF marge rechts
+PDF margin top,PDF marge boven
+PDF margin bottom,PDF marge onder
+Settings saved,Instellingen opgeslagen
+Login,Inloggen
+Logo picture,Logo foto
+Calculations,Calculaties
+Management,Beheer
+Delivery date,Leverdatum
+All calculations,Calculatie overzicht
+Create calculation,Calculatie toevoegen
+Hour rates,Uurtarieven
+Manage hour rates,Beheer uurtarieven
+Calculation ID,Calculatienummer
+Back to all calculations,Terug naar calculatie overzicht
+Material,Materiaal
+Equipment,Materieel
+Provisional,Stelposten
+Subcontractors,Onderaannemers
+st,st
+m1,m1
+m2,m2
+m3,m3
+pst,pst
+Chpt,Hfst
+Par,Pr
+No.,Nr.
+Unit,Eenh.
+Norm,Norm
+Hours,Uren
+Hour rate,Uurtarief
+Wages,Loon
+Subcontr,Ond.Aann.
+Price/unit,Kosten/eh
+Total costs,Totale kosten
+Back to all hour rates,Terug naar uurtarieven overzicht
+All hour rates,Uurtarieven overzicht
+Add hour rate,Uurtarief toevoegen
+Rate,Uurtarief
+Edit rate,Uurtarief aanpassen
+Edit hour rate,Uurtarief aanpassen
+Are you sure you want to delete this hour rate? This action can not be undone.,Weet u zeker dat u dit uurtarief wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete hour rate,Verwijder uurtarief
+Hour rate deleted,Uurtarief verwijderd
+Access calculations section,Toegang tot calculatie module
+Edit all calculations,Alle calculaties bewerken
+Edit own calculations,Eigen calculaties bewerken
+Edit project calculations,Calculaties behorend tot toegankelijke projecten bewerken
+Access hour rates section,Toegang tot uurtarieven sectie
+Add hour rates,Uurtarieven toevoegen
+Edit all hour rates,Alle uurtarieven bewerken
+In uitvoering,In uitvoering
+Voltooid,Voltooid
+Route image,Aanrij route
+Purchase invoices,Inkoopfacturen
+Purchasing,Inkoop
+Sales invoices,Verkoopfacturen
+Sales,Verkoop
+Timesheets,Urenstaten
+Calculate all totals,Bereken totalen
+Budgeted,Begroot
+Purchased,Ingekocht
+Labor,Arbeid
+Other,Overig
+Budget leftover,Restant begroting
+Revenues,Opbrengsten
+Total balance,Resultaat
+Recalculate,Herbereken
+All project totals calculated successfully,Totalen succesvol berekend
+Additional work,Meer- en minderwerk
+Totals,Totalen
+By cost type,Per kosten type
+Budget,Begroot
+Costs,Kosten
+Calculated,Begroot
+Project cost category overview,Project kostensoort overzicht
+Cost type,Kosten type
+Project cost code overview,Project kostencode overzicht
+Labor costs for,Arbeid kosten voor
+Timesheets total,Urenstaten totaal
+Purchase invoices total,Totaal inkoopfacturen
+Purchase invoice lines,Inkoopfactuurregels
+All purchase invoices,Inkoopfacturen
+Add purchase invoice,Inkoopfactuur toevoegen
+All purchase invoice lines,Inkoopfactuurregels
+Choose a project,Kies een project
+Purchase invoice line ID,Inkoopfactuur regelnummer
+Purchase invoice ID,Inkoopfactuurnummer
+Back to project,Terug naar project
+Cost codes for project,Kostencodes voor project
+Calculation lines,Calculatieregels
+All calculation lines,Calculatieregels
+Calculation total,Calculatie totaal
+Last update,Laatst gewijzigd op
+Edit calculation,Calculatie aanpassen
+Are you sure you want to delete this calculation? This action can not be undone.,Weet u zeker dat u deze calculatie wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete calculation,Verwijder calculatie
+Add chapter,Hoofdstuk
+Add paragraph,Paragraaf
+Add line,Regel
+Add chapter below,Nieuw hoofdstuk
+Add paragraph below,Nieuwe paragraaf
+Add line below,Nieuwe regel
+Calculation line ID,Calculatie regelnummer
+Purchase invoice,Inkoopfactuur
+Unpaid,Onbetaald
+Paid,Betaald
+Invoice ID,Factuurnummer
+Invoice number,Factuurnummer
+Invoice date,Factuurdatum
+Invoice total,Factuur totaal
+Is paid?,Betaald
+Back to all purchase invoices,Terug naar inkoopfacturen
+Edit purchase invoice,Bewerk inkoopfactuur
+Paid amount,Betaald bedrag
+Notes,Notities
+Are you sure you want to delete this purchase invoice? This action can not be undone.,Weet u zeker dat u deze inkoopfactuur wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete purchase invoice,Verwijder inkoopfactuur
+Additional work ID,Meerwerk nummer
+Sales invoice,Verkoopfactuur
+All sales invoices,Verkoopfacturen
+Add sales invoice,Verkoopfactuur toevoegen
+Sales invoice lines,Verkoopfactuurregels
+All sales invoice lines,Verkoopfactuurregels
+Back to all sales invoices,Terug naar verkoopfacturen
+Edit sales invoice,Bewerk verkoopfactuur
+Are you sure you want to delete this sales invoice? This action can not be undone.,Weet u zeker dat u deze verkoopfactuur wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete sales invoice,Verwijder verkoopfactuur
+Timesheet,Urenstaat
+All timesheets,Urenstaten
+Add timesheet,Urenstaat toevoegen
+Open,Nieuw
+Submitted,Verzonden
+Booked,Geboekt
+Sheet ID,Urenstaat nummer
+Employee,Werknemer
+Year,Jaar
+Employee state,Werknemer status
+Accountant state,Boekhouding status
+Back to all timesheets,Terug naar urenstaten
+Edit timesheet,Bewerk urenstaat
+Are you sure you want to delete this timesheet? This action can not be undone.,Weet u zeker dat u deze urenstaat wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete timesheet,Verwijder urenstaat
+Monday,maandag
+Tuesday,dinsdag
+Wednesday,woensdag
+Thursday,donderdag
+Friday,vrijdag
+Saturday,zaterdag
+Sunday,zondag
+Note,Notitie
+Timesheet saved,Urenstaat opgeslagen
+Default hour rate,Standaard uurtarief
+Access additional work section,Toegang tot meer- en minderwerk module
+Create additional work,Meerwerk toevoegen
+Edit all additional work,Bewerk alle meer- en minderwerken
+Edit own additional work,Eigen meer- en minderwerken bewerken
+Edit project additional work,Meer- en minderwerken behorend tot toegankelijke projecten bewerken
+Access sales invoices section,Toegang tot verkoopfactuur module
+Create sales invoices,Verkoopfactuur toevoegen
+Edit all sales invoices,Bewerk alle verkoopfacturen
+Edit own sales invoices,Eigen verkoopfacturen bewerken
+Edit project sales invoices,Verkoopfacturen behorend tot toegankelijke projecten bewerken
+Access purchase invoices section,Toegang tot inkoopfactuur module
+Create purchase invoices,Inkoopfactuur toevoegen
+Edit all purchase invoices,Bewerk alle inkoopfacturen
+Edit own purchase invoices,Eigen inkoopfacturen bewerken
+Edit project purchase invoices,Inkoopfacturen behorend tot toegankelijke projecten bewerken
+Access timesheets section,Toegang tot urenstaat module
+Create timesheet,Urenstaat toevoegen
+Edit all timesheets,Bewerk alle urenstaten
+Access schedules section,Toegang tot planning module
+Edit all schedules,Bewerk alle planningen
+Access tasks section,Toegang tot taken module
+Project totals calculated successfully,Project totalen succesvol berekend
+All additional work,Meer- en minderwerken
+Add additional work,Meerwerk toevoegen
+Draft,Nieuw
+Quoted,Geoffreerd
+Contracted,Gecontracteerd
+Expired,Vervallen
+Work ID,Meerwerk nummer
+Work state,Meerwerk status
+Quote total,Offertebedrag
+Back to all additionalwork,Terug naar meer- en minderwerken
+Edit additional work,Bewerk meerwerk
+Quote amount,Offertebedrag
+Order amount,Contract bedrag
+Are you sure you want to delete this additionalwork? This action can not be undone.,Weet u zeker dat u dit meerwerk wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Delete additionalwork,Verwijder meerwerk
+Cost category code,Kostensoort code
+Cost category title,Kostensoort titel
+Edit cost category,Bewerk kostensoort
+Please save your work before leaving this page.,Heeft u uw werk opgeslagen?
+Login not successful. Please try again,Login niet gelukt. Controleer de ingevoerde gegevens en probeer het opnieuw.
+Choose one,Kies een optie
+Project city,Project plaats
+Man-days register,Mandagenregister
+Create man-days register,Exporteer mandagenregister
+All,Alle
+From week,Vanaf week
+To week,Tot week
+Submit,Verzenden
+Week(s),We(e)k(en)
+Timesheet lines,Weekstaat regels
+All timesheet lines,Alle weekstaat regels
+Days,Dagen
+Is active in mandays register output,Meenemen in mandagenregister?
+Total sales invoices,Totaal verkoopfacturen
+Summary,Samenvatting
+Project total balance,Projectresultaat - saldo
+Project report,Projectrapportage
+Invoice nr.,Factuur nr.
+Project code,Project code
+Sales invoice line ID,Verkoopfactuurregelnummer
+Sales invoice number,Verkoopfactuurnummer
+New purchase order for,Bestelling voor
+Contact person,Contactpersoon
+Columns,Kolommen
+Used material,Gebruikt materiaal
+Raw input Enabled,Ruwe invoer ingeschakeld
+All Logs,Alle logboeken
+Reset Control Log,Reset Control Log
+Project Information,Project informatie
+Settings Link,Instellingen Link
+Connection Type,Connectie type
+Features,Kenmerken
+Manual sync,Handmatige synchronisatie
+Integration,Integratie
+Message center,Berichten centrum
+Project List,Projectlijst
+Manage projects,Beheer projecten
+Arrange Fields Order,Rangschik de volgorde van de velden
+Admin overview,Admin overzicht
+Admin settings,Admin instellingen
+Test Api Connection,Test Api-verbinding
+Maintenance,Onderhoud
+Message Subject,Bericht Onderwerp
+Message Body,Bericht lichaam
+Message View,Bericht Visie
+Subject,Onderwerp
+File Type,Bestandstype
+Generated By,Gegenereerd door
+Partner overview,Partner overzicht

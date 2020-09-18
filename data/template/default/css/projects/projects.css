@@ -1,0 +1,126 @@
+.dashboard-block{
+	float: left;
+	max-width: calc(100% - 20px);
+	width: 48%\9; /* IE8 and below */
+	margin: 10px;
+	margin-bottom: 25px;
+}
+.dashboard-block.financial{
+	clear: both;
+	width: 100%;
+}
+.dashboard-block-right{
+	float: right;
+	clear: none;
+}
+.action-group{
+	float: left;
+	clear: both;
+	padding: 10px 0;
+	font-size: 10pt;
+}
+.group-actions{
+	float: left;
+	clear: both;
+	margin-bottom: 20px;
+}
+	.action-icon{
+		float: left;
+		text-align: center;
+		width: 100px;
+		height: 100px;
+	    margin: 10px;
+	    border-radius: 10px;
+	    background: #048399;
+	}
+		.action-icon:nth-child(3n+1){
+			clear: both;
+		}
+		.action-icon .icon{
+			margin-top: 18px;
+			font-size: 30pt;
+			color: #fff;
+		}
+		.action-icon .icon-text{
+			float: left;
+			clear: both;
+			width: 100%;
+			margin-top: 5px;
+			text-align: center;
+			color: #fff;
+			font-size: 9pt;
+		}
+.image-thumb{
+	float: left;
+}
+	.image-thumb .image-remove{
+	    position: absolute;
+	    padding: 3px;
+		color: #F00;
+	    font-weight: bold;
+	    background: #fff;
+	    z-index: 99;
+	    cursor: pointer;
+	}
+	.image-thumb img{
+		float: left;
+		max-width: 50px;
+		max-height: 50px;
+	}
+.upload-form{
+	display: none;
+}
+.projects-settings-block{
+	max-width: 300px;
+}
+#tabs{
+	float: left;
+}
+	.ct-chart{
+		float: left;
+		width: 500px;
+		height: 300px;
+	}
+		.chart-placeholder{
+			float: left;
+			width: 380px;
+			height: 100%;
+		}
+		.ct-bar{
+			stroke-width: 20px;
+		}
+		.ct-chart-bar .ct-label.ct-horizontal.ct-end{
+			word-break: break-all;
+		}
+		
+		
+/* All mobile devices */
+@media screen and (max-width: 1024px){
+	.action-icon{
+		width: 75px;
+		height: 75px;
+	    margin: 7px;
+	    border-radius: 7px;
+	}
+		.action-icon:nth-child(3n+1){
+			clear: both;
+		}
+		.action-icon .icon{
+			margin-top: 14px;
+			font-size: 22pt;
+			color: #fff;
+		}
+		.action-icon .icon-text{
+			margin-top: 3px;
+			font-size: 8pt;
+			word-break: break-all;
+		}
+	.projects-settings-block{
+		max-width: 245px;
+	}
+	.ct-chart,
+	.chart-placeholder{
+		width: 100%;
+		height: auto;
+	}
+}

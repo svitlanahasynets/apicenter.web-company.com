@@ -1,0 +1,60 @@
+// User Pages
+
+.app-logo {
+  height: $logo-height;
+  width: $logo-width;
+  // background: url('./assets/images/logo-inverse.png');
+  background: url('./assets/images/webcompany.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.app-logo-inverse {
+  height: $logo-height;
+  width: $logo-width;
+  // background: url('./assets/images/logo.png');
+  background: url('./assets/images/webcompany.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.app-login-box {
+  .app-logo {
+    margin-bottom: $layout-spacer-lg;
+  }
+
+  h4 {
+    margin-bottom: $layout-spacer-x;
+    font-weight: normal;
+
+    div {
+      opacity: .6;
+    }
+
+    span {
+      font-size: $font-size-lg;
+    }
+  }
+}
+
+input#current_page {
+	background: #FFF;
+	color: #000000;
+}
+
+.m-stack__item.m-stack__item--left.m-stack__item--middle.m-stack__item--last {
+	padding: 0 10px;
+}
+
+.example.ui-sortable {
+	padding-left: 40px;
+}
+
+.m-menu__nav.m-menu__nav--dropdown-submenu-arrow.create_project_sidebar {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.m-grid__item.m-aside-left {
+	float: left;
+}

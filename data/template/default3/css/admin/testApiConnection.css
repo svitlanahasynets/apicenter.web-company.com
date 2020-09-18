@@ -1,0 +1,238 @@
+
+		
+/*test API connection*/
+
+#api_request ul.api-request-section-header {
+    display: flex;
+    margin: 4px 0;
+    padding: 10;
+    list-style-type: none;
+}
+
+#api_request ul.api-request-section-header li {
+    -webkit-box-direction: normal;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    display: inline-flex;
+    -webkit-box-orient: vertical;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+#api_request ul.api-request-section-header li .select-wrapper {
+    position: relative;
+}
+
+#api_request .html-element {
+  height: 37px;
+  -webkit-appearance: none;
+  padding: 8px;
+  border: 1px solid #908e8e;
+  border-radius: 3px;
+  text-overflow: ellipsis;
+  background-color: #eee;
+}
+
+#api_request ul.api-request-section-header li .select-wrapper #api_request_method {    
+    width: 80%;
+    cursor: pointer;    
+}
+
+#api_request ul.api-request-section-header li #api_request_url {
+    width: 95%;
+}
+
+#api_request ul.api-request-section-header li #api_request_send {
+    width: 100%;
+    margin: 0 auto;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 4px;
+    padding: 6px 16px;
+    border-radius: 20px;
+    background-color: #17d447;
+    color: #fff;
+    font-size: 16px;
+    font-family: Poppins,Roboto,Noto,sans-serif;
+    font-weight: 700;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    fill: var(--act-color);
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 1px rgba(81, 77, 92, 0.2);
+}
+
+#api_request ul.api-request-section-header li #api_request_send:hover {
+    background-color: #49ea72;
+    color: #000;
+}
+
+#api_request ul.api-request-section-header li #api_request_send span {
+    position: relative;
+}
+
+#api_request ul.api-request-section-header li #api_request_send span i {
+    position: absolute;     
+    margin-left: 5px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+##api_request .api-request-section-body {
+  padding: 10px;
+}
+
+#list_request_body {
+  display: none;
+}
+
+#api_request_body_switch_desc {
+  position: absolute;
+  margin-left: 10px;
+  top: 5px;
+}
+
+.textarea-element {
+  width: 100%;
+  border: 1px solid #908e8e;
+  border-radius: 3px;
+  background-color: #eee;
+  padding: 5px;
+}
+
+.textarea-element:focus {
+    box-shadow: inset 0 0 0 2px var(--fg-light-color);
+     -webkit-transition: all .2s ease-in-out; 
+    transition: all .2s ease-in-out;
+}
+
+.api-request-section-body .list-param-ul {
+  display: flex;
+  margin: 4px 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.api-request-section-body .list-param-ul .list-param-li {
+  -webkit-box-direction: normal;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  display: inline-flex;
+  -webkit-box-orient: vertical;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  margin-right: 15px;
+}
+
+#add_request_list i {
+  font-size: 18px;
+}
+
+#add_request_list span {
+  font-size: 20px;
+}
+
+.del-param i {
+  color: #1996f6;
+}
+
+.del-param:hover i {
+  color: #0a75c7;
+}
+
+ul.nav-tabs li {
+	padding: 8px 10px;
+}
+
+ul.nav-tabs li.active {
+	border-bottom: 2px solid #6696f5;
+}
+
+ul.nav-tabs li a {
+	color: #bbb;
+}
+
+ul.nav-tabs li a:hover {
+  color: #555;
+  text-decoration: none;
+}
+
+ul.nav-tabs li.active a {
+	color: #6696f5;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.raw-body-label {
+  font-size: 18px;
+}
+
+.response-section {
+  padding: 10px;
+}

@@ -1,0 +1,36 @@
+
+		
+/* All mobile devices */
+@media screen and (max-width: 1024px){
+	.action-icon{
+		width: 75px;
+		height: 75px;
+	    margin: 7px;
+	    border-radius: 7px;
+	}
+		.action-icon:nth-child(3n+1){
+			clear: both;
+		}
+		.action-icon .icon{
+			margin-top: 14px;
+			font-size: 22pt;
+			color: #fff;
+		}
+		.action-icon .icon-text{
+			margin-top: 3px;
+			font-size: 8pt;
+			word-break: break-all;
+		}
+	.projects-settings-block{
+		max-width: 245px;
+	}
+	.ct-chart,
+	.chart-placeholder{
+		width: 100%;
+		height: auto;
+	}
+}
+input#current_page {
+	background: #FFF;
+	color: #000000;
+}

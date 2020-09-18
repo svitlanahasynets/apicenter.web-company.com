@@ -1,0 +1,15 @@
+<?php
+
+class Testcli extends MY_Controller
+{
+    public function index() {
+        ini_set('error_reporting', E_ALL);
+        ini_set('display_errors', 1);
+        ini_set('display_startup_errors', 1);
+        $this->load->helper('NuSOAP/nusoap');
+        echo 1111;
+        var_dump('sdad');
+        echo 'saasadasd';
+    }
+
+}
