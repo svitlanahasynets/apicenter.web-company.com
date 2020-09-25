@@ -13,6 +13,8 @@ class Amazonmws extends My_Controller {
 		$this->load->helpers('constants');
 	}
 
+    
+
 	// use to make authorised code for exactonline
 	public function index(){
 
